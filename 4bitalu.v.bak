@@ -1,0 +1,4 @@
+module 4bitalu(
+input [3:0]A,
+input [3:0]B,
+
